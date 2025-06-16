@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Serhat
 
-Ben çok yönlü bir yazılım geliştiricisiyim. Android, Backend, DevOps ve Frontend alanlarında çalışıyor; modern teknolojilerle ölçeklenebilir sistemler geliştiriyorum.
+Android, Backend, DevOps ve Frontend alanlarında çalışıyor; modern teknolojilerle ölçeklenebilir sistemler geliştiriyorum.
 
 ## 💼 Uzmanlık Alanlarım
 - 🎯 **Android Development**
